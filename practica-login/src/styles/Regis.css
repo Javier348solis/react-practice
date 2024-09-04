@@ -1,0 +1,9 @@
+.squad-info{
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    display: grid;
+    col
+}

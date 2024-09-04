@@ -1,9 +1,9 @@
-import React from 'react'
+import Regis from "../components/Regis"
 
 function Formregister() {
   return (
     <div>
-      
+      <Regis/>
     </div>
   )
 }
