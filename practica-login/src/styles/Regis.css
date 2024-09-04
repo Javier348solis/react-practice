@@ -1,9 +1,16 @@
 .squad-info{
-    border: 2px solid white;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    padding: 10px;
-    display: grid;
-    col
+    max-width: 300px; 
+    max-height: 500px;
+    margin: auto; 
+    padding: 20px;
+    border: 2px solid white; 
+    border-radius: 5px; 
+    text-align: center; 
+    display: flex; 
+    flex-direction: column; /* Apilar los elementos verticalmente */
+    margin-top: 20px;
+}
+.button-style{
+    margin-bottom: 20px;
+    
 }

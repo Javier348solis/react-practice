@@ -7,7 +7,7 @@ function Regis() {
       <input type="text" />
       <input type="password" />
       <input type="email" />
-      <button>Register</button>
+      <button className='button-style'>Register</button>
      </section>
     </div>
   )
