@@ -1,4 +1,4 @@
-import Regis from "./components/Regis"
+import Formregister from './pages/Formregister'
 import './styles/Regis.css'
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div>    
-     <Regis/>
+     <Formregister/>
       </div>
      
     </>
